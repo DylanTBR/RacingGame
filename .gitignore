@@ -60,3 +60,4 @@ crashlytics-build.properties
 
 Patterns Test/Logs
 Patterns Test/Library
+Patterns Test/Temp

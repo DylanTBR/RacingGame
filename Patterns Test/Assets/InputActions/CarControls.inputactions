@@ -1,0 +1,33 @@
+{
+    "name": "CarControls",
+    "maps": [
+        {
+            "name": "MIni",
+            "id": "18c3e989-f3b6-4e0e-bfed-89453ba39dad",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "738c934f-735d-4a62-9ad4-e36388b01656",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "de4fc708-2b94-44a6-8e65-0458f18fb5f8",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
